@@ -61,3 +61,8 @@ hr{
 div#conclude{
 	text-align: right;
 }
+
+footer{
+	position: absolute;
+	bottom: 0px;
+}
